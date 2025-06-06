@@ -64,7 +64,7 @@ function About(){
                              <div className="flex justify-between items-center mb-1">
                                 <span className="">BSc (Comp. & Software Systems) – University of Melbourne</span>
                                 <span className="bg-gray-200 text-gray-700 text-xs font-semibold px-3 py-1 rounded-full">
-                                Exp. 2026
+                                Exp.2026
                                 </span>
                             </div>
                             </li>
