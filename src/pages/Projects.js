@@ -3,7 +3,8 @@ const projects = [
     {
         title: "RaceWise",
         description: "AI model that predicts NBA game outcomes with 70% accuracy.",
-        tech: ["Python", "React", "Machine Learning"]
+        tech: ["Python", "React", "Machine Learning"],
+        link: "https://github.com/WillNoon/RaceWise"
     },
     {
         title: "UniSphere",
