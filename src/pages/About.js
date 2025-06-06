@@ -14,7 +14,7 @@ function About(){
                     machine learning and software engineering, and has applied these across a range of projects. 
                 </p>
                 <p className="mt-2">
-                    In addition to his technical work, William has held roles as an academic tutor and swimming instructor, developing strong communication,leadership and mentoring skills. 
+                    In addition to his technical work, William has held roles as an academic tutor and swimming instructor, developing strong communication, leadership and mentoring skills. 
                 </p>
                 
                 <div className="grid gap-6 md:grid-cols-2 mt-12 2xl:grid-cols-3">
