@@ -1,6 +1,6 @@
 function Home(){
     return (
-        <div id="home" className="px-6 py-20 bg-white text-gray-800 animate-fade">
+        <div id="home" className="px-6 py-20 bg-white text-gray-800 animate-fade font-sans">
             <div className="mx-5">
                 <h1 className="text-4xl font-bold">William Noonan</h1>
                 <h2 className="text-2xl mt-2">Computing and Software Systems Student</h2>

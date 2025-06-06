@@ -2,6 +2,9 @@
 module.exports = {
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+      },
       animation: {
         fade: 'fadeIn 1s ease-out forwards',
       },

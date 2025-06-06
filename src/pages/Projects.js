@@ -20,7 +20,7 @@ const projects = [
 
 function Projects(){
     return (
-        <div id="projects" className="px-6 py-20 bg-white text-gray-800">
+        <div id="projects" className="px-6 py-20 bg-white text-gray-800 font-sans">
             <h2 className="text-3xl font-bold mb-6 mx-5">Projects</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-6 mx-5">
                 {projects.map((project, index) => (

@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 function Contact(){
     return (
-        <div id="contact" className="px-6 py-20 bg-gray-100 text-gray-800">
+        <div id="contact" className="px-6 py-20 bg-gray-100 text-gray-800 font-sans">
             <div className="mx-5">
                 <h2 className="text-2xl font-bold mb-6">Contact</h2>
                 
