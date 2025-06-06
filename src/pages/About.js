@@ -9,11 +9,11 @@ function About(){
                     He recently completed a semester abroad at the University of Pennsylvania, where he studied a broad range of computer science topics including
                     algorithms, cryptography and applied data science. 
                 </p>
-                <p>
+                <p className="mt-2">
                     William is passionate about building intelligent, real-world systems that create meaningful impact. His academic interests include artificial intelligence, optimisation, 
                     machine learning and software engineering, and has applied these across a range of projects. 
                 </p>
-                <p>
+                <p className="mt-2">
                     In addition to his technical work, William has held roles as an academic tutor and swimming instructor, developing strong communication,leadership and mentoring skills. 
                 </p>
                 
