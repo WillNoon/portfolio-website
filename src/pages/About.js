@@ -10,11 +10,11 @@ function About(){
                     algorithms, cryptography and applied data science. 
                 </p>
                 <p className="mt-2">
-                    William is passionate about building intelligent, real-world systems that create meaningful impact. His academic interests include artificial intelligence, optimisation, 
+                    William is interested in building intelligent, real-world projects with meaningful impact. His academic interests include artificial intelligence, optimisation, 
                     machine learning and software engineering, and has applied these across a range of projects. 
                 </p>
                 <p className="mt-2">
-                    In addition to his technical work, William has held roles as an academic tutor and swimming instructor, developing strong communication, leadership and mentoring skills. 
+                    In addition to his technical work, William has held roles as an academic tutor and swimming instructor, where he developed strong communication, leadership and mentoring skills. 
                 </p>
                 
                 <div className="grid gap-6 md:grid-cols-2 mt-12 2xl:grid-cols-3">
