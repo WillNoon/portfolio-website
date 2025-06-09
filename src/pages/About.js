@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 function About(){
     return (
-        <div id="about" className="px-6 py-20 bg-gray-100 text-gray-800 font-sans">
+        <div id="about" className="px-6 py-20 bg-gray-100 text-gray-800 font-sans dark:bg-gray-800 dark:text-gray-100">
             <div className="mx-5">
                 <h2 className="text-3xl font-bold mb-6">About Me</h2>
                 <p>
@@ -24,7 +24,7 @@ function About(){
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true, amount: 0.3 }}
                         transition={{ duration: 0.5, delay: 0.1 }}
-                        className="bg-white p-6 rounded-lg shadow"
+                        className="bg-white p-6 rounded-lg shadow dark:bg-gray-700"
                     >
                         <h3 className="text-xl font-semibold mb-2">Strengths</h3>
                         <ul className="list-disc pl-4 space-y-1">
@@ -40,7 +40,7 @@ function About(){
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true, amount: 0.3 }}
                         transition={{ duration: 0.5, delay: 0.2 }}
-                        className="bg-white p-6 rounded-lg shadow"
+                        className="bg-white p-6 rounded-lg shadow dark:bg-gray-700"
                     >
                         <h3 className="text-xl font-semibold mb-2">Technical Interests</h3>
                         <div className="flex flex-wrap gap-2">
@@ -56,7 +56,7 @@ function About(){
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true, amount: 0.3 }}
                         transition={{ duration: 0.5, delay: 0.3 }}
-                        className="bg-white p-6 rounded-lg shadow"
+                        className="bg-white p-6 rounded-lg shadow dark:bg-gray-700"
                     >
                         <h3 className="text-xl font-semibold mb-2">Education</h3>
                         <ul className="list-disc pl-4 space-y-1">
@@ -94,7 +94,7 @@ function About(){
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true, amount: 0.3 }}
                         transition={{ duration: 0.5, delay: 0.4 }}
-                        className="bg-white p-6 rounded-lg shadow"
+                        className="bg-white p-6 rounded-lg shadow dark:bg-gray-700"
                     >
                         <h3 className="text-xl font-semibold mb-2">Experience</h3>
                         <ul className="list-disc pl-4 space-y-1">
