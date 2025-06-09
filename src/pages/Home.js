@@ -9,8 +9,7 @@ function Home(){
                 <Typewriter
                     words={['William Noonan']}
                     loop={1}
-                    cursor
-                    cursorStyle="|"
+                    cursor={false}
                     typeSpeed={100}
                     deleteSpeed={0}
                     delaySpeed={1500}
