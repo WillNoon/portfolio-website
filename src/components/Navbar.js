@@ -21,7 +21,7 @@ function Navbar() {
       <a href="#contact" className="hover:text-blue-600">Contact</a>
 
       <div className="fixed top-4 right-4 z-50 flex items-center space-x-2 text-sm text-gray-700 dark:text-gray-200">
-        <span>Toggle Dark Mode</span>
+        <span>Dark Mode</span>
         <label className="inline-flex items-center cursor-pointer relative">
           <input
             type="checkbox"
