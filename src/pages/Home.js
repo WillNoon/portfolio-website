@@ -1,8 +1,24 @@
+import { Typewriter } from 'react-simple-typewriter';
+
 function Home(){
     return (
         <div id="home" className="px-6 py-20 bg-white text-gray-800 animate-fade font-sans">
             <div className="mx-5">
                 <h1 className="text-6xl font-bold">William Noonan</h1>
+                import { Typewriter } from 'react-simple-typewriter';
+
+                <h1 className="text-3xl font-bold">
+                <Typewriter
+                    words={['William Noonan']}
+                    loop={0}
+                    cursor
+                    cursorStyle="|"
+                    typeSpeed={70}
+                    deleteSpeed={50}
+                    delaySpeed={1500}
+                />
+                </h1>
+
                 <h2 className="text-3xl mt-2">Computing and Software Systems Student</h2>
                 <p className="mt-5">Undergraduate computer science student at The University of Melbourne, majoring in Computing and software systems. <br />
                 Self-motivated and industry-trained software developer with experience in web development, artificial intelligence, and real-world application design.</p>
