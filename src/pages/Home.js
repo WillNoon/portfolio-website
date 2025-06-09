@@ -4,17 +4,15 @@ function Home(){
     return (
         <div id="home" className="px-6 py-20 bg-white text-gray-800 animate-fade font-sans">
             <div className="mx-5">
-                <h1 className="text-6xl font-bold">William Noonan</h1>
-                import { Typewriter } from 'react-simple-typewriter';
-
-                <h1 className="text-3xl font-bold">
+            
+                <h1 className="text-6xl font-bold">
                 <Typewriter
                     words={['William Noonan']}
                     loop={0}
                     cursor
                     cursorStyle="|"
-                    typeSpeed={70}
-                    deleteSpeed={50}
+                    typeSpeed={20}
+                    deleteSpeed={0}
                     delaySpeed={1500}
                 />
                 </h1>
