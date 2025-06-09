@@ -8,10 +8,10 @@ function Home(){
                 <h1 className="text-6xl font-bold">
                 <Typewriter
                     words={['William Noonan']}
-                    loop={0}
+                    loop={1}
                     cursor
                     cursorStyle="|"
-                    typeSpeed={20}
+                    typeSpeed={100}
                     deleteSpeed={0}
                     delaySpeed={1500}
                 />
